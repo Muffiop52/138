@@ -1,0 +1,22 @@
+.heading
+{
+          height: 67px;
+          width: 100%;
+}
+
+h2
+{
+          display: inline;
+          float: left;
+          font-size: 50px;
+          margin-top: 10px;
+          color: black;
+}
+
+.heading button
+{
+          float: right;
+          font-size: 20px;
+          border: 2px solid white;
+}
+
